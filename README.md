@@ -45,7 +45,7 @@ cordova plugin add <path-to-repo-local-clone>
 It's also possible to install via the repo's URL directly.
 
 ```console
-cordova plugin add https://github.com/atruletech/cordova-outsystems-barcode
+cordova plugin add https://github.com/GrocerKey/cordova-outsystems-barcode
 ```
 
 ## Supported Platforms
